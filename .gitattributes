@@ -1,0 +1,15 @@
+# LabVIEW binary assets
+*.vi binary
+*.ctl binary
+*.llb binary
+*.lvlibp binary
+
+# LabVIEW project metadata
+*.lvproj text eol=crlf
+*.aliases text eol=crlf
+*.lvlps text eol=crlf
+
+# Markdown and Git metadata text files
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf

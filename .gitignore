@@ -1,0 +1,30 @@
+# LabVIEW build outputs
+builds/
+*.exe
+*.dll
+*.msi
+*.cab
+
+# LabVIEW generated/cache files
+*.aliases.tmp
+*.lvlps.tmp
+*.lvproj.bak
+*.vi.bak
+*.ctl.bak
+*.llb.bak
+*.cache
+AB_Cache_*
+
+# LabVIEW autosave and temporary files
+autosave/
+*.autosave
+*.tmp
+*.temp
+~$*
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
